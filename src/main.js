@@ -18,6 +18,8 @@ const buttonClick = () => {
 
 for (let i = 0; i < buttonCountries.length; i++) {
   buttonCountries[i].addEventListener("click", buttonClick);
+  
+
 }
 
 const printOption = (result) => {
@@ -43,7 +45,7 @@ const printYears = (resultYear) => {
       let element = resultYear[key];
       const year = key;
       if (element !== "") {
-        let indicatorDataYear = `<p>Año: <span>${year}   </span> <span>${parseFloat(element).toFixed(2)}%</span></p>`
+        let indicatorDataYear = `<div class="list"><div class="titles"><h3>Año</h3> <h4><span>${year}</span></h4></div> <div class="percent"><span>${parseFloat(element).toFixed(2)}%</span></div></div>`
         dataYear.insertAdjacentHTML("beforeend", indicatorDataYear);
       }
 
@@ -88,7 +90,7 @@ const printYears2 = (resultYear) => {
       let element = resultYear[key];
       const year = key;
       if (year !== "") {
-        let indicatorDataYear = `<p>Año: <span>${element}   </span> <span>${parseFloat(year).toFixed(2)}%</span></p>`
+        let indicatorDataYear = `<div class="list"><div class="titles"><h3>Año</h3> <h4><span>${element}</span></h4></div> <div class="percent"><span>${parseFloat(year).toFixed(2)}%</span></div></div>`
         dataYear.insertAdjacentHTML("beforeend", indicatorDataYear);
       }
 

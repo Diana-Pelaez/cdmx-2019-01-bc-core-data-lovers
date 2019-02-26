@@ -10,49 +10,43 @@
 - [Contenido de referencia](#contenido-de-referencia)
 - [Checklist](#checklist)
 
----
+
 
 ## Preámbulo
 
-Cada año, 12 millones de niñas se casan antes de los 18 años. A nivel mundial, 1 de cada 5 niñas es madre antes de cumplir dicha edad.
+Una niña o una mujer que asiste a la escuela está realizando su derecho humano fundamental a la educación. Además tiene una mayor posibilidad de realizar su pleno potencial en el transcurso de la vida, ya que estará mejor preparada para obtener un trabajo decente y bien remunerado, por ejemplo, o alejarse de un hogar violento.
 
-Todas los niñas merecen alcanzar su máximo potencial, pero la desigualdad de género que permea su vida y la de sus cuidadores impide que esto sea realidad.
+La educación es esencial para que las mujeres puedan alcanzar la igualdad de género y convertirse en agentes de cambio. Al mismo tiempo, las mujeres educadas benefician a las sociedades enteras. Contribuyen de modo sustancial a las economías prósperas y a mejorar la salud, la nutrición y la educación de sus familias.
 
-La desigualdad de género está presente en el día a día de niñas y niños, tanto en sus hogares como en sus comunidades, en los libros de texto, los medios de comunicación y entre los hombres y mujeres que cuidan de ellos.
+Las regiones en desarrollo han alcanzado o están cerca de alcanzar la igualdad de género en la escuela primaria. Sin embargo, estas diferencias de género aumentan en la educación secundaria y superior. 
 
-De la misma manera, la distribución desigual de los quehaceres domésticos socializa a los niños y les hace creer que la única función de las mujeres es hacerse cargo del hogar, lo cual limita el cambio generacional y reduce las ambiciones de las niñas.
+Algunas de las discrepancias más profundas persisten en los países más pobres. En todo el mundo, el 80 por ciento de las mujeres adultas sabe leer, pero eso se compara con casi el 89 por ciento de los hombres, mientras que en los países menos desarrollados, solo el 51 por ciento de las mujeres sabe leer y escribir.
 
-Los niños y niñas que son testigos de violencia de género en sus hogares tienen una mayor tendencia a imitar estas dinámicas violentas en sus relaciones adultas, ya sea como autores o víctimas.
+La discriminación de género debilita de muchas formas las perspectivas de las mujeres de recibir una educación. Los matrimonios a edad temprana y el trabajo doméstico llevan a muchas niñas y jóvenes a abandonar la escuela. El acoso sexual en los espacios públicos puede confinarlas a sus hogares.
 
-Sin embargo, durante la primera infancia, la disparidad entre niños y niñas es relativamente limitada. La tasa de supervivencia al nacer es más elevada entre las niñas, y sus probabilidades de presentar un desarrollo adecuado y de asistir a la escuela preescolar son, respectivamente, mayores e iguales a las de los niños.
+El sesgo de género en los materiales educativos y pedagógicos limita los campos de estudio y margina a las mujeres. Incluso cuando más mujeres se están matriculando en las universidades, muchas se detienen antes de llegar a los títulos avanzados.
 
-Aun así, conforme crecen, las barreras de género se acentúan.
+El reciente progreso mundial hacia la enseñanza primaria universal es loable. Pero para las mujeres y las niñas es insuficiente. La falta de escolarización, la pobreza, el desempleo y los peores trabajos todavía recaen de forma desproporcionada en las mujeres. La educación es su derecho y su camino a un futuro mejor.
 
-Factores tales como las tareas domésticas, cuidar de los hermanos o los problemas de seguridad, impiden que las niñas vayan a la escuela, mientras que la deserción escolar de los niños se debe a que se espera que estos ganen dinero. Al llegar a los 10 años, el mundo de los niños a menudo se expande, mientras que el de las niñas se contrae, lo cual acarrea consecuencias negativas que pueden durar toda la vida.
-
-## Resumen del proyecto
-
-
+Por ello, la investigación para el Desarrollo de la mujer es el objetivo principal de ProMujer, y con ello promover e impulsar la igualdad de género y el empoderamiento de las mujeres en América Latina.
 
 ### Definición del producto
 
-El desarrollo de esta aplicación web tiene como objetivo servir de apoyo a las organizaciones no lucrativas (y a los profesionales y voluntarios que trabajan o colaboran con ellas), interesadas en impulsar el desarrollo de la mujer a través de la educación. 
+El desarrollo de esta aplicación web tiene como objetivo servir de apoyo a las organizaciones educativas no lucrativas y sus colaboradores, interesados en impulsar el desarrollo de la mujer a través de la educación. 
 
-La mayoría de estas entidades no lucrativas carecen de la necesaria capacitación que les permita realizar su trabajo de una manera profesional y eficiente.
-
-Esas carencias formativas son el objetivo principal de nuestra organización.
-
-ProMujer es un Centro de investigación para el Desarrollo de la mujer en América Latina que cuenta con programas de investigación y desarrollo, publicación de contenidos, etc.
+ProMujer es un Centro de investigación para el Desarrollo de la mujer en América Latina que cuenta con programas de investigación y desarrollo, publicación de contenidos, eventos, etc.
 
 Aprovecha su presencia mundial y las alianzas con sus asociados para fomentar la igualdad de género. El Plan de Acción para la Igualdad entre los Géneros es la guía para hacer que las reglas del juego sean más justas.
 
+## Primera iteración 
+
 ### Historias de usuario
 
-Al realizar las historias de nuestros usuarios, encontramos que las mas recurrentes fueron:
+Al realizar las historias de nuestros usuarios, encontramos que las más recurrentes son:
 
-- Usuario 1: Necesito ver un menú con los países de América Latina y sus niveles en educación.
+- Usuario 1: Yo como usuario necesito ver un menú con los países de América Latina y sus niveles en educación.
 
-- Usuario 2: Quiero acceder rápidamente a los indicadores según el país de mi interés.
+- Usuario 2: Yo como usuario quiero acceder rápidamente a los indicadores según el país de mi interés.
 
 
 ### Diseño de la Interfaz de Usuario
@@ -77,32 +71,94 @@ Con el objetivo de facilitar a los usuarios la navegación por nuestra web app, 
 - Banner: Uso de banner como elemento princial, que reafirme al usiario el contenido de esta web app.
 
 #### Prototipo de baja fidelidad
+Para iniciar nuestro diseño partimos desde un dispositivo mobile. Nuestros primeros sketch son los siguientes:
+
+![Pantalla inicio](./src/assets/images/imagen_sket3.jpg)
+![Pantalla 1](./src/assets/images/imagen_sket1.jpg)
+![Pantalla 2](./src/assets/images/imagen_sket2.jpg)
+![Pantalla 3](./src/assets/images/imagen_sket4.jpg)
 
 #### Prototipo de alta fidelidad
+El prototipo de alta fidelidad sufrió cambios a lo largo de las iteraciones del producto, con base a los resultados obtenidos en las encuestas.
+
+![Prototipo 1](./src/assets/images/PrototypeAlta_01.jpg)
+![Prototipo 2](./src/assets/images/PrototypeAlta_02.jpg)
 
 #### Testeos de usabilidad
 
+Se realizaron encuestas principalmente a profesionales y voluntarios que trabajan en asociaciones no lucrativas. Con el objetivo de conocer su principal impresión del producto.
 
-### Implementación de la Interfaz de Usuario (HTML/CSS/JS)
+Los principales problemas que se detectaron en las pruebas de usabilidad fueron:
 
-1. Mostrar la data en una interfaz: puede ser un card, una tabla, una lista, etc.
-2. Permitir al usuario filtrar y ordenar la data.
-3. Calcular estadísticas de la colección (o subcolección) como media aritmética,
-   máximo y/o mínimo de algún atributo numérico, o contar cuántas veces aparece
-   un determinado valor, por ejemplo.
-4. Visualizarse sin problemas desde distintos tamaños de pantallas: móviles,
-   tablets y desktops.
+-Páginas muy complejas de manejar.
+
+-Páginas con diseño poco atractivo.
+
+-Páginas con mucha información.
+
+-Páginas con información no jerarquizada.
+
+![Encuesta 1](./src/assets/images/usabilidad_1.png)
+![Encuesta 2](./src/assets/images/usabilidad_2.png)
+![Encuesta 3](./src/assets/images/usabilidad_3.png)
+![Encuesta 4](./src/assets/images/usabilidad_4.png)
+![Encuesta 5](./src/assets/images/usabilidad_5.png)
+
+## Segunda iteración 
+
+### Historia de mi Proto Persona
+
+Datos personales:
+
+Nombre: Gabriela Rocha
+Edad: 35 años
+Ciudad de México
+Estudios: Psicología, Maestría en Administración Pública
+Empresa y Cargo: Laboratoria / Partner & COO  (Socia y Directora de Operaciones)
+Labor en la empresa: Dirigir los equipos de Operaciones de Laboratoria en América Latina, identificar y lanzar nuevas ubicaciones para el crecimiento y fortalecer la cultura de la organización en todos los equipos.
+Medio de transporte al trabajo: Coche
+Dispositivos tecnológicos usa regularmente: Móvil, Laptop (apple)
+Dispositivo tecnológico que usa principalmente para obtener información: Móvil, Laptop
+
+### Historias de usuario
+
+- Yo como usuario necesito conocer los niveles en educación de las mujeres en América Latina para identificar zonas de mayor necesidad, y así, proponer y lanzar nuevas ubicaciones para la expansión de la organización a la que pertenezco.  
+
+#### Testeos de usabilidad
+
+Se realizaron test con usuarios de escolaridad mínima de licenciatura, en actividad laboral, viviendo en la Ciudad de México, en edades de los 30 a los 35 años de edad.
+
+La prueba se realizó con el uso de la web app versión desktop, teniendo 10 minutos para navegar en la página web.
+
+Los comentarios de los usuarios despúes de la prueba, fueron:
+
+- El logo parece arbolito de navidad.
+- Para el botón de estadísticas hace falta un texto que haga referencia al contenido que va a mostrar.
+- Botón de estadísticas, la transparencia del hover no es legible.
+- Radios: Incluir que se ordenan los porcentajes (%).
+- Hacer tablas o gráficas para mayor comprensión de los datos.
+- Botones de cada país con hover o encendido-on, una ves que se selecciona uno de ellos.
+- Texto descriptivo que haga referencia al indicador que se despliega. 
+- Selector de indicadores con texto previa (placeholder). 
+- En la tabla resaltar los porcentajes (%).
+- Resumir sección “nosotros”.
+- Contacto: Quitar telefonos, sobran.
+
+#### Prototipo de alta fidelidad
+El prototipo de alta fidelidad sufrió cambios a lo largo de las iteraciones del producto, con base a los resultados obtenidos en las encuestas.
+
+![Prototipo de Testeo](https://jestjs.io/)
+![Prototipo Iterado](https://marvelapp.com/b2abb6e/screen/53746532/)
 
 ### Pruebas unitarias
 
-El _boilerplate_ de este proyecto no incluye pruebas unitarias, pero esperamos
-que escribas tus propias pruebas unitarias para las funciones encargadas de
-_procesar_, _filtrar_ y _ordenar_ la data, así como _calcular_ estadísticas.
-Para ello te recomendamos implementar las siguientes funciones en el archivo
+Se implementaron pruebas unitarias para las funciones encargadas de
+_procesar_, _filtrar_ y _ordenar_ la data.
+Para ello se implementaron las siguientes funciones en el archivo
 `src/data.js`:
 
-- `filterData(data, condition)`: esta función `filter` o filtrar recibiría la
-  data, y nos retornaría aquellos datos que sí cumplan con la condición.
+- `filterData(data, condition)`: esta función `filter` o filtrar recibe la
+  data, y nos retorna aquellos datos que sí cumplan con la condición.
 
 - `sortData(data, sortBy, sortOrder)`: esta función `sort` u ordenar
   recibe tres parámetros.
@@ -111,21 +167,6 @@ Para ello te recomendamos implementar las siguientes funciones en el archivo
   la data se quiere ordenar.
   El tercer parámetro, `sortOrder`, indica si se quiere ordenar de manera
   ascendente o descendente.
-
-- `computeStats(data)`: la función `compute` o calcular, nos permitirá hacer
-  cálculos estadísticos básicos para ser mostrados de acuerdo a la data
-  proporcionada.
-
-Estas son propuestas de funciones que podrías implementar.
-
-El archivo `src/data.js` debe tener una cobertura del 70% de _statements_
-(_sentencias_), _functions_ (_funciones_), _lines_ (_líneas_), y _branches_
-(_ramas_).
-
-**Estas funciones deben ser [_puras_](https://medium.com/laboratoria-developers/introducci%C3%B3n-a-la-programaci%C3%B3n-funcional-en-javascript-parte-2-funciones-puras-b99e08c2895d)
-e independientes del DOM**. Estas funciones serán después usadas desde el archivo
-`src/main.js`, al cargar la página, y cada vez que el usuario interactúe (click,
-filtrado, ordenado, ...).
 
 ## Consideraciones técnicas
 
@@ -170,7 +211,7 @@ como toda la configuración de dependencias:
 8 directories, 17 files
 ```
 
-## Pistas sobre cómo empezar a trabajar en el proyecto
+## Cómo empezar a trabajar en el proyecto
 
 Para empezar se sugiere:
 1. Realizar un :fork_and_knife:
@@ -245,5 +286,5 @@ Para empezar se sugiere:
 - [ ] Utiliza Librerías de graficas (`chart.js` ó `google chart`).
 - [ ] Cobertura de coverage al 100%.
 
-## Agradecimientos
+
 
